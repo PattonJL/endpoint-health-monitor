@@ -161,6 +161,7 @@ IT automation tools:
 ## Author
 
 **Justin Patton**
+
 CompTIA Security+ · Google Cybersecurity · Google IT Support
 
 [LinkedIn](https://www.linkedin.com/in/pattonjl/) ·
