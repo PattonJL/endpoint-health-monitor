@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Generated reports — never commit real endpoint data
+health_report_*.txt
+
+# Credential files
+.env
+*.env
+secrets.txt
+credentials.txt
+setup_env.ps1
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini

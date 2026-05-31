@@ -1,0 +1,51 @@
+============================================================
+       ENDPOINT HEALTH MONITOR REPORT
+       Generated : 2026-05-31 08:00:02
+       Machine   : WORKSTATION-01
+============================================================
+
+  ⚠️  ISSUES DETECTED
+
+────────────────────────────────────────────────────────────
+  DISK USAGE
+────────────────────────────────────────────────────────────
+  C:\     90.5%  ████████████████████████████████████░░░  ⚠️  CRITICAL
+          Used 214.7 GB of 237.1 GB  |  Free: 22.5 GB
+
+────────────────────────────────────────────────────────────
+  SYSTEM UPTIME
+────────────────────────────────────────────────────────────
+  Last reboot : 2026-05-31 02:49:43
+  Uptime      : 0d  12h  42m
+
+────────────────────────────────────────────────────────────
+  WINDOWS UPDATE
+────────────────────────────────────────────────────────────
+  ✅ Last update : 2026-05-16  (15 days ago)
+
+────────────────────────────────────────────────────────────
+  CRITICAL SERVICES
+────────────────────────────────────────────────────────────
+  ✅  Windows Firewall                  RUNNING
+  ✅  Windows Event Log                 RUNNING
+  ✅  Task Scheduler                    RUNNING
+  🚨  Windows Defender                  STOPPED
+  🚨  Windows Update                    STOPPED
+
+────────────────────────────────────────────────────────────
+  LIVE SNAPSHOT  (point-in-time)
+────────────────────────────────────────────────────────────
+  CPU   : 13.8%
+  RAM   : ✅ 81.9%  (9.7 GB used / 11.8 GB total  |  2.1 GB free)  OK
+
+============================================================
+
+  📄 Report saved to: health_report_20260531_080002.txt
+  📧 Alert email sent successfully.
+
+============================================================
+
+NOTE: Machine name and all data in this sample are fictional.
+Generated in a controlled test environment — no real endpoint
+data is committed to this repository.
+============================================================
